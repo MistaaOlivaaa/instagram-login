@@ -6,7 +6,6 @@ This project is a responsive clone of the Instagram login page interface, built 
 
 ## Screenshot
 
-**(Recommended: Add a screenshot of your project here!)**
 
 *Replace the placeholder below with a link to an actual screenshot of your project. You might want to show both light and dark modes.*
 
