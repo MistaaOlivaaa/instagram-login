@@ -45,12 +45,12 @@ To run this project locally, you'll need a local web server environment that can
 1.  **Prerequisites:** Install XAMPP, MAMP, WAMP, or a similar package providing Apache/Nginx, PHP, and MySQL.
 2.  **Clone:** Clone this repository into your local machine:
     ```bash
-    git clone https://github.com/MistaaOlivaaa/instagram-login-clone.git
+    git clone https://github.com/MistaaOlivaaa/instagram-login.git
     ```
     (Replace `[your-username]` with your actual GitHub username)
-3.  **Move Project:** Copy the entire `instagram-login-clone` folder into your web server's document root directory (e.g., `htdocs` in XAMPP/MAMP, `www` in WAMP).
+3.  **Move Project:** Copy the entire `instagram-login` folder into your web server's document root directory (e.g., `htdocs` in XAMPP/MAMP, `www` in WAMP).
 4.  **Start Server:** Ensure your Apache (or Nginx) server is running via the XAMPP/MAMP/WAMP control panel.
-5.  **Access:** Open your web browser and navigate to `http://localhost/instagram-login-clone/` (adjust the URL if your server uses a different port or setup).
+5.  **Access:** Open your web browser and navigate to `http://localhost/instagram-login/` (adjust the URL if your server uses a different port or setup).
 6.  **Assets:** Ensure the `assets/` folder contains the necessary images (logos, app badges, phone mockup). You may need to find or create these based on the filenames used in `index.php`.
 
 **Using PHP's Built-in Server (for quick testing):**
@@ -59,13 +59,12 @@ To run this project locally, you'll need a local web server environment that can
 2.  **Clone:** Clone the repository as described above.
 3.  **Navigate:** Open your terminal/command prompt and navigate into the project directory:
     ```bash
-    cd instagram-login-clone
+    cd instagram-login
     ```
 4.  **Run Server:** Start the PHP built-in server:
     ```bash
     php -S localhost:8000
     Open your web browser and navigate to `http://localhost:8000`.
-    MistaaOlivaaa
     ```
 4.1 **XAMPP (Cross-Platform):**
 ```bash
